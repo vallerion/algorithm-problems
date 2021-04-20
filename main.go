@@ -1,10 +1,10 @@
 package main
 
 import "fmt"
-import . "./415_Add_Strings"
+import . "./989_Add_to_Array-Form_of_Integer"
 
 func main() {
 	fmt.Print(
-		AddStrings("0", "0"),
+		AddToArrayForm([]int{9}, 99),
 	)
 }
