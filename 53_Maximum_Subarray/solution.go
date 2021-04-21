@@ -1,4 +1,4 @@
-package _3_Maximum_Subarray
+package _53_Maximum_Subarray
 
 // [-2,1,-3,4,-1,2,1,-5,4]
 // curr=curr-2, curr=curr<0?0:curr -> curr=2, curr>max?max=curr // -2
