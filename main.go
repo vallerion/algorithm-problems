@@ -1,10 +1,10 @@
 package main
 
 import "fmt"
-import . "./april_challenge"
+import . "./interview_mocks"
 
 func main() {
 	fmt.Print(
-		Ffib(2),
+		SstrStr("mississippi", "ssip"),
 	)
 }

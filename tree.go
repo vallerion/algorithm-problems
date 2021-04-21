@@ -59,7 +59,7 @@ func PrintTree(root *NodeTree) {
 	PrintTree(root.Right)
 }
 
-func main() {
+func main2() {
 	//	      10
 	//     /     \
 	//    5       35
