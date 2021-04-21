@@ -1,4 +1,4 @@
-package _17_Merge_Two_Binary_Trees
+package _617_Merge_Two_Binary_Trees
 /**
  * Definition for a binary tree node.
  * type TreeNode struct {
