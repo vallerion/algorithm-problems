@@ -1,7 +1,10 @@
 package main
 
+import "fmt"
+import . "./sedvik/1_1"
+
 func main() {
-	//fmt.Print(
-	//	RremoveDuplicates([]int{1,1,2,2,3}),
-	//)
+	fmt.Print(
+		QuickFind(GeneratePairs(5)),
+	)
 }
