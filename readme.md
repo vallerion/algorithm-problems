@@ -5,6 +5,7 @@ My LeetCode Solutions
 - [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 - [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+- [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 # todo
 - [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)

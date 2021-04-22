@@ -1,10 +1,7 @@
 package main
 
-import "fmt"
-import . "./interview_mocks"
-
 func main() {
-	fmt.Print(
-		SstrStr("mississippi", "ssip"),
-	)
+	//fmt.Print(
+	//	RremoveDuplicates([]int{1,1,2,2,3}),
+	//)
 }
