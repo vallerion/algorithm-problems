@@ -1,10 +1,10 @@
 package main
 
 import "fmt"
-import . "./sedvik/1_1"
+import . "./67_Add_Binary"
 
 func main() {
 	fmt.Print(
-		QuickFind(GeneratePairs(5)),
+		AaddBinary("11", "1"),
 	)
 }
