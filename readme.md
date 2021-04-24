@@ -8,6 +8,7 @@ My LeetCode Solutions
 - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [67. Add Binary](https://leetcode.com/problems/add-binary/)
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [155. Min Stack](https://leetcode.com/problems/min-stack/)
 
 # todo
 - [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
