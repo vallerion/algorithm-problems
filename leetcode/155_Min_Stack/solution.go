@@ -3,7 +3,7 @@ package _155_Min_Stack
 type defNode struct {
 	value *minNode
 	prev  *defNode
-\
+}
 
 type stack struct {
 	head *defNode
