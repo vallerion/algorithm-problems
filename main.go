@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-import . "./67_Add_Binary"
+import . "./leetcode/67_Add_Binary"
 
 func main() {
 	fmt.Print(
