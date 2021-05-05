@@ -1,4 +1,4 @@
-package sorting
+package exercises
 
 // merge (A, i, j, p)
 //	R[p]
