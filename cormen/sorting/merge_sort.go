@@ -1,5 +1,7 @@
 package sorting
 
+type Nums *[]int
+
 // merge (A, i, j, p)
 //	R[p]
 //	cj = j
@@ -42,7 +44,7 @@ package sorting
 // tests
 // Merge([]int{3,5,1,2}, 0, 2, 4),
 
-func Merge(arr []int, i, j, l int) ([]int, int) {
+func MergeIndexes(arr []int, i, j, l int) ([]int, int) {
 	result := make([]int, l)
 	cj := j
 	iter := 0
@@ -77,4 +79,54 @@ func Merge(arr []int, i, j, l int) ([]int, int) {
 	}
 
 	return result, iter
+}
+
+func Merge(first, second []int) []int {
+	result := make([]int, len(first) + len(second))
+	i := 0
+	j := 0
+
+	for {
+		if i == len(first) && j == len(second) {
+			break
+		}
+
+		if i == len(first) {
+			result[i+j] = second[j]
+			j++
+			continue
+		}
+
+		if j == len(second) {
+			result[i+j] = first[i]
+			i++
+			continue
+		}
+
+		if first[i] < second[j] {
+			result[i+j] = first[i]
+			i++
+			continue
+		} else {
+			result[i+j] = second[j]
+			j++
+			continue
+		}
+	}
+
+	return result
+}
+
+
+func MergeSort(arr []int) []int {
+	if len(arr) <= 1 {
+		return arr
+	}
+
+	q := len(arr) / 2
+
+	left := MergeSort(arr[:q])
+	right := MergeSort(arr[q:])
+
+	return Merge(left, right)
 }
