@@ -5,6 +5,6 @@ import . "./cormen/sorting"
 
 func main() {
 	fmt.Print(
-		InsertionSort([]int{1,43,4,45,6,7,4,3,2}),
+		Merge([]int{3,5,1,2,25,90}, 0, 3, 6),
 	)
 }
