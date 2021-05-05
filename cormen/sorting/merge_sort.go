@@ -1,7 +1,5 @@
 package sorting
 
-type Nums *[]int
-
 // merge (A, i, j, p)
 //	R[p]
 //	cj = j
@@ -117,7 +115,7 @@ func Merge(first, second []int) []int {
 	return result
 }
 
-
+// MergeSort todo: working with indexes instead of copy slices can use less memory
 func MergeSort(arr []int) []int {
 	if len(arr) <= 1 {
 		return arr
