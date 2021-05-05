@@ -1,10 +1,10 @@
 package main
 
 import "fmt"
-import . "./leetcode/67_Add_Binary"
+import . "./cormen/sorting"
 
 func main() {
 	fmt.Print(
-		AaddBinary("11", "1"),
+		InsertionSort([]int{1,43,4,45,6,7,4,3,2}),
 	)
 }
