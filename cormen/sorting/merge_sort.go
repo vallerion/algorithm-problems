@@ -42,14 +42,16 @@ package sorting
 // tests
 // Merge([]int{3,5,1,2}, 0, 2, 4),
 
-func Merge(arr []int, i, j, l int) []int {
+func Merge(arr []int, i, j, l int) ([]int, int) {
 	result := make([]int, l)
 	cj := j
+	iter := 0
 
 	for {
 		if i == cj && j == l {
 			break
 		}
+		iter++
 
 		if i == cj {
 			result[i+j-cj] = arr[j]
@@ -74,5 +76,5 @@ func Merge(arr []int, i, j, l int) []int {
 		}
 	}
 
-	return result
+	return result, iter
 }
