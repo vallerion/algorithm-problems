@@ -8,9 +8,9 @@ import (
 	"time"
 )
 
-type Algorithm func([]int)[]int
+type SortAlgo func([]int)[]int
 
-func WrapperTest(length int, t *testing.T, fn Algorithm) {
+func WrapperTest(length int, t *testing.T, fn SortAlgo) {
 	original := GenerateArray(length)
 
 	input := make([]int, len(original))
@@ -27,7 +27,7 @@ func WrapperTest(length int, t *testing.T, fn Algorithm) {
 	}
 }
 
-func WrapperBenchmark(length int, b *testing.B, fn Algorithm) {
+func WrapperBenchmark(length int, b *testing.B, fn SortAlgo) {
 	for n := 0; n < b.N; n++ {
 		fn(GenerateArray(length))
 	}
@@ -42,4 +42,11 @@ func GenerateArray(length int) []int {
 	}
 
 	return result
+}
+
+func GenerateSortedArray(length int) []int {
+	nums := GenerateArray(length)
+	sort.Ints(nums)
+
+	return nums
 }
