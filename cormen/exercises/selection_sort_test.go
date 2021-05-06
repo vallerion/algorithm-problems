@@ -1,35 +1,21 @@
 package exercises
 
 import (
-	"math/rand"
 	"testing"
-	"time"
 )
 
 func BenchmarkSelectionSort100(b *testing.B) {
-	benchmarkSelectionSort(100, b)
+	WrapperBenchmark(100, b, SelectionSort)
 }
 
 func BenchmarkSelectionSort100k(b *testing.B) {
-	benchmarkSelectionSort(100000, b)
+	WrapperBenchmark(100000, b, SelectionSort)
 }
 
-func benchmarkSelectionSort(length int, b *testing.B) {
-	input := GenerateArray(length)
-
-	for n := 0; n < b.N; n++ {
-		SelectionSort(input)
-	}
+func TestSelectionSort100(t *testing.T) {
+	WrapperTest(100, t, SelectionSort)
 }
 
-func GenerateArray(length int) []int {
-	var result []int
-
-	for i := 0; i < length; i++ {
-		rand.Seed(time.Now().UnixNano())
-		result = append(result, rand.Intn(length))
-	}
-
-	return result
+func TestSelectionSort100k(t *testing.T) {
+	WrapperTest(100000, t, SelectionSort)
 }
-

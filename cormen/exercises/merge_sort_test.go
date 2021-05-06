@@ -5,17 +5,17 @@ import (
 )
 
 func BenchmarkMergeSort100(b *testing.B) {
-	benchmarkMergeSort(100, b)
+	WrapperBenchmark(100, b, MergeSort)
 }
 
 func BenchmarkMergeSort100k(b *testing.B) {
-	benchmarkMergeSort(100000, b)
+	WrapperBenchmark(100000, b, MergeSort)
 }
 
-func benchmarkMergeSort(length int, b *testing.B) {
-	input := GenerateArray(length)
+func TestMergeSort100(t *testing.T) {
+	WrapperTest(100, t, MergeSort)
+}
 
-	for n := 0; n < b.N; n++ {
-		MergeSort(input)
-	}
+func TestMergeSort100k(t *testing.T) {
+	WrapperTest(100000, t, MergeSort)
 }

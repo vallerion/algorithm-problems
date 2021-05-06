@@ -34,7 +34,7 @@ func InsertionSortBS(nums []int) []int {
 		j := i - 1
 		bsr := bs(nums, 0, j, curr)
 
-		for bsr >= 0 && j >= bsr {
+		for j >= bsr {
 			nums[j+1] = nums[j]
 			j--
 		}
@@ -47,13 +47,17 @@ func InsertionSortBS(nums []int) []int {
 func bs(nums []int, start, end, value int) int {
 	if start >= end {
 		if nums[start] < value {
-			return -1
+			return start + 1
 		}
 
 		return start
 	}
 
 	q := start + (end-start)/2
+
+	if nums[q] == value {
+		return q + 1
+	}
 
 	if nums[q] > value {
 		return bs(nums, start, q, value)
