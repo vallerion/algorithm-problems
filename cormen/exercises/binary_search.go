@@ -1,5 +1,6 @@
 package exercises
 
+// BinarySearch return searched item
 func BinarySearch(nums []int, needed int) int {
 	if len(nums) == 0 {
 		return -1
@@ -22,7 +23,8 @@ func BinarySearch(nums []int, needed int) int {
 	}
 }
 
-func Bsi(nums []int, start, end, needed int) int {
+// BinarySearchIndex return index of searched item
+func BinarySearchIndex(nums []int, start, end, needed int) int {
 	if start >= end {
 		if nums[start] == needed {
 			return start
@@ -36,8 +38,8 @@ func Bsi(nums []int, start, end, needed int) int {
 	if nums[q] == needed {
 		return q
 	} else if nums[q] > needed {
-		return Bsi(nums, start, q, needed)
+		return BinarySearchIndex(nums, start, q, needed)
 	} else {
-		return Bsi(nums, q+1, end, needed)
+		return BinarySearchIndex(nums, q+1, end, needed)
 	}
 }
