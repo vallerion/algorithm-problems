@@ -43,3 +43,13 @@ func BinarySearchIndex(nums []int, start, end, needed int) int {
 		return BinarySearchIndex(nums, q+1, end, needed)
 	}
 }
+
+func LinearSearch(nums []int, needed int) int {
+	for i := 0; i < len(nums); i++ {
+		if nums[i] == needed {
+			return i
+		}
+	}
+
+	return -1
+}
