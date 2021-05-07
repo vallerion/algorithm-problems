@@ -28,49 +28,50 @@ package exercises
 //
 //
 //
-// [1,2,3,5]+[4,5,7,10] -> [1,2,3,5,4,5,7,10], i=0, j=len/2=4, cj=j=4
-// i=0,j=4 -> 1/4 -> R[i+j-cj]->R[0]=[1] -> [1]
-// i=1,j=4 -> 2/4 -> R[i+j-cj]->R[1]=[2] -> [1,2]
-// i=2,j=4 -> 3/4 -> R[i+j-cj]->R[2]=[3] -> [1,2,3]
-// i=3,j=4 -> 5/4 -> R[i+j-cj]->R[3]=[4] -> [1,2,3,4]
-// i=3,j=5 -> 5/5 -> R[i+j-cj]->R[4]=[5] -> [1,2,3,4,5]
-// i=3,j=6 -> 5/7 -> R[i+j-cj]->R[5]=[5] -> [1,2,3,4,5,5]
-// i=4,j=6 -> x/7 -> R[i+j-cj]->R[6]=[7] -> [1,2,3,4,5,5,7]
-// i=4,j=7 -> x/10 -> R[i+j-cj]->R[7]=[10] -> [1,2,3,4,5,5,7,10]
-// i=4,j=8 -> x/x -> R[i+j-cj]->R[7]=[10] -> [1,2,3,4,5,5,7,10]
+// [1,2,3,5]+[4,5,7,10] -> [1,2,3,5,4,5,7,10], i=0, j=len/2=4, mid=4, end=7
+// i=0,j=4 -> 1/4 -> R[i+j-mid]->R[0]=[1] -> [1]
+// i=1,j=4 -> 2/4 -> R[i+j-mid]->R[1]=[2] -> [1,2]
+// i=2,j=4 -> 3/4 -> R[i+j-mid]->R[2]=[3] -> [1,2,3]
+// i=3,j=4 -> 5/4 -> R[i+j-mid]->R[3]=[4] -> [1,2,3,4]
+// i=3,j=5 -> 5/5 -> R[i+j-mid]->R[4]=[5] -> [1,2,3,4,5]
+// i=3,j=6 -> 5/7 -> R[i+j-mid]->R[5]=[5] -> [1,2,3,4,5,5]
+// i=4,j=6 -> x/7 -> R[i+j-mid]->R[6]=[7] -> [1,2,3,4,5,5,7]
+// i=4,j=7 -> x/10 -> R[i+j-mid]->R[7]=[10] -> [1,2,3,4,5,5,7,10]
+// i=4,j=8 -> x/x -> R[i+j-mid]->R[7]=[10] -> [1,2,3,4,5,5,7,10]
 
 // tests
 // Merge([]int{3,5,1,2}, 0, 2, 4),
 
-func MergeIndexes(arr []int, i, j, l int) ([]int, int) {
-	result := make([]int, l)
-	cj := j
+func MergeIndexes(arr []int, start, mid, end int) ([]int, int) {
+	result := make([]int, end+1)
+	i := start
+	j := mid
 	iter := 0
 
 	for {
-		if i == cj && j == l {
+		if i == mid && j == end+1 {
 			break
 		}
 		iter++
 
-		if i == cj {
-			result[i+j-cj] = arr[j]
+		if i == mid {
+			result[i+j-mid] = arr[j]
 			j++
 			continue
 		}
 
-		if j == l {
-			result[i+j-cj] = arr[i]
+		if j == end+1 {
+			result[i+j-mid] = arr[i]
 			i++
 			continue
 		}
 
 		if arr[i] < arr[j] {
-			result[i+j-cj] = arr[i]
+			result[i+j-mid] = arr[i]
 			i++
 			continue
 		} else {
-			result[i+j-cj] = arr[j]
+			result[i+j-mid] = arr[j]
 			j++
 			continue
 		}
