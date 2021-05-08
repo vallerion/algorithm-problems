@@ -1,10 +1,10 @@
 package main
 
 import "fmt"
-import . "./cormen/exercises"
+//import . "./cormen/exercises"
+import . "./lessons"
 
 func main() {
-	fmt.Println(
-		Inversions([]int{15, 10, 8, 6, 1}),
-	)
+	heap := BuildMinHeap([]int{1,2,3,4,5})
+	fmt.Println(heap)
 }
