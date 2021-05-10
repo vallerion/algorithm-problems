@@ -1,10 +1,14 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 //import . "./cormen/exercises"
-import . "./lessons"
+import . "./leetcode/may_contest"
 
 func main() {
-	heap := BuildMinHeap([]int{1,2,3,4,5})
-	fmt.Println(heap)
+	//fmt.Println(IsPrime(100000000))
+	//fmt.Println(IsPrime2(math.MaxInt32))
+	//fmt.Println(IsPrime3(math.MaxInt32))
+	fmt.Println(CountPrimes(100000))
 }

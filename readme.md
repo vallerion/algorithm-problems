@@ -11,3 +11,4 @@ My LeetCode Solutions
 - [155. Min Stack](https://leetcode.com/problems/min-stack/)
 - [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
+- [204. Count Primes](https://leetcode.com/problems/count-primes/)
