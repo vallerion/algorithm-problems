@@ -1,4 +1,4 @@
-package lessons
+package problems
 
 import (
 	"bufio"
