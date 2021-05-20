@@ -1,6 +1,6 @@
 package main
 
-import . "./lessons"
+import . "./lessons/dsu"
 
 func main() {
 	MainDSU()
