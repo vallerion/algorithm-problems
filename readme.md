@@ -12,3 +12,4 @@ My LeetCode Solutions
 - [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
 - [204. Count Primes](https://leetcode.com/problems/count-primes/)
+- [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
