@@ -1,4 +1,4 @@
-package problems
+package stepik
 
 import (
 	"bufio"
