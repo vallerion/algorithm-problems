@@ -14,3 +14,6 @@ My LeetCode Solutions
 - [204. Count Primes](https://leetcode.com/problems/count-primes/)
 - [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+
+# could be solved better
+- [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings)
