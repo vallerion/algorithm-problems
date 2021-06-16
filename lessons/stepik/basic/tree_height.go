@@ -1,4 +1,4 @@
-package stepik
+package basic
 
 import "fmt"
 import "strconv"

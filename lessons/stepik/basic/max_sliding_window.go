@@ -1,4 +1,4 @@
-package stepik
+package basic
 //package main
 
 /*
