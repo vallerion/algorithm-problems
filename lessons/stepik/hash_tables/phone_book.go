@@ -1,5 +1,5 @@
-package hash_tables
-//package main
+//package hash_tables
+package main
 
 import (
 	"bufio"
