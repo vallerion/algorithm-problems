@@ -1,4 +1,4 @@
-//package hash_tables
+//package dsu
 package main
 
 import (
@@ -14,17 +14,17 @@ import (
  * @see ./statements.pdf
  */
 
-func find(set map[int]int, x int) int {
+func findTM(set map[int]int, x int) int {
 	if set[x] <= 0 {
 		return x
 	}
 
-	set[x] = find(set, set[x])
+	set[x] = findTM(set, set[x])
 	return set[x]
 }
 
-func union(set map[int]int, a, b int) int {
-	ax, bx := find(set, a), find(set, b)
+func unionTM(set map[int]int, a, b int) int {
+	ax, bx := findTM(set, a), findTM(set, b)
 
 	if ax == bx {
 		return 0
@@ -78,7 +78,7 @@ func main() {
 		fmt.Sscanf(input, "%d %d", &destination, &source)
 		//fmt.Println(destination, source)
 
-		height = union(tables, destination, source)
+		height = unionTM(tables, destination, source)
 		highest = max(height, highest)
 		fmt.Println(highest)
 
