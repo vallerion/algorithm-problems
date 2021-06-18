@@ -15,5 +15,6 @@ My LeetCode Solutions
 - [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 
-# could be solved better
+# to solve after days
 - [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings)
+- [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
