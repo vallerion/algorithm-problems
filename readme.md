@@ -7,7 +7,6 @@
 - [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [67. Add Binary](https://leetcode.com/problems/add-binary/)
-- [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [155. Min Stack](https://leetcode.com/problems/min-stack/)
 - [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
@@ -22,3 +21,4 @@
 
 ## to solve again later
 - [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)

@@ -1,52 +1,29 @@
 package _20_Valid_Parentheses
 
-// '(', ')', '{', '}', '[' and ']'
 func isValid(s string) bool {
-	stk := new(stack)
+	stack := make([]rune, 0)
+	//symbols := map[string]string
 
-	for _, sym := range s {
-		if sym == '(' || sym == '{' || sym == '[' {
-			stk.push(sym)
+	for _, v := range s {
+		if v == '(' || v == '{' || v == '[' {
+			stack = append(stack, v)
 			continue
 		}
-		if stk.isEmpty() {
+
+		if len(stack) == 0 {
 			return false
 		}
 
-		if sym == ')' && stk.pop().value != '(' {
-			return false
-		}
-		if sym == '}' && stk.pop().value != '{' {
-			return false
-		}
-		if sym == ']' && stk.pop().value != '[' {
+		if stack[len(stack)-1] == '(' && v == ')' {
+			stack = stack[:len(stack)-1]
+		} else if stack[len(stack)-1] == '{' && v == '}' {
+			stack = stack[:len(stack)-1]
+		} else if stack[len(stack)-1] == '[' && v == ']' {
+			stack = stack[:len(stack)-1]
+		} else {
 			return false
 		}
 	}
 
-	return stk.isEmpty()
-}
-
-type listNode struct {
-	value rune
-	prev  *listNode
-}
-
-type stack struct {
-	top *listNode
-}
-
-func (st *stack) push(v rune) {
-	ln := &listNode{v, st.top}
-	st.top = ln
-}
-
-func (st *stack) pop() *listNode {
-	temp := st.top
-	st.top = st.top.prev
-	return temp
-}
-
-func (st *stack) isEmpty() bool {
-	return st.top == nil
+	return len(stack) == 0
 }
