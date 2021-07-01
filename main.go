@@ -1,7 +1,11 @@
 package main
 
-import . "./lessons/dsu"
+type IntValue int
+
+func (value *IntValue) compare(input *TreeValue) int {
+	//inputInt := input.(IntValue)
+}
 
 func main() {
-	MainDSU()
+	tree := AVLTree{&treeNode{}}
 }
