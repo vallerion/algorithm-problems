@@ -16,6 +16,7 @@
 - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 - [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+- [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
 
 ## to solve after days
 - [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings)
