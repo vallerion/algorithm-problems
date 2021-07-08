@@ -1,42 +1,45 @@
 # My LeetCode Solutions
 
-## Solved with help
-- [415. Add Strings](https://leetcode.com/problems/add-strings/)
-- [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
-- [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-- [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
-- [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-- [67. Add Binary](https://leetcode.com/problems/add-binary/)
-- [155. Min Stack](https://leetcode.com/problems/min-stack/)
-- [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
-- [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
-- [204. Count Primes](https://leetcode.com/problems/count-primes/)
-- [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
-- [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
-- [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
-- [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
-- [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
-- [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
+## Slow thinking or solved with help
 
-## Slow thinking
-- [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
-- [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
-- [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
-- [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/)
-- [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
-- [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings)
-- [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
-- [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
-- [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
-- [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)
-- [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+- *[date to solve again] [link]*
+- [22.06.2021] [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
+- [22.06.2021] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [22.06.2021] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+- [22.06.2021] [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [22.06.2021] [67. Add Binary](https://leetcode.com/problems/add-binary/)
+- [22.06.2021] [155. Min Stack](https://leetcode.com/problems/min-stack/)
+- [22.06.2021] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+- [22.06.2021] [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
+- [22.06.2021] [204. Count Primes](https://leetcode.com/problems/count-primes/)
+- [22.06.2021] [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [22.06.2021] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [28.06.2021] [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [28.06.2021] [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+- [02.07.2021] [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+- [02.07.2021] [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+- [05.07.2021] [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+- [10.07.2021] [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+- [10.07.2021] [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/)
+- [10.07.2021] [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+- [15.07.2021] [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
+- [16.07.2021] [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings)
+- [16.07.2021] [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
+- [16.07.2021] [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+- [16.07.2021] [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [17.07.2021] [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)
+- [17.07.2021][378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+- [18.07.2021][718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
+- [19.07.2021] [415. Add Strings](https://leetcode.com/problems/add-strings/)
 
 ## TODO Actions
+
 - [ ] Traversal on tree without recursion
 
 ## TODO Problems
 
 ### Array
+
 - [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
@@ -49,6 +52,7 @@
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 ### Binary
+
 - [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 - [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
