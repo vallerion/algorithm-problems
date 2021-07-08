@@ -1,16 +1,27 @@
 package _26_Remove_Duplicates_from_Sorted_Array
 
-// n = [0,0,1,1,1,2,2,3,3,4], i = 1
-// n[i] == n[i-1] -> remove i-1, i -= 1
-// ...
-
 func removeDuplicates(nums []int) int {
+	counter := 0
+
 	for i := 1; i < len(nums); i++ {
+		if counter >= len(nums)-i {
+			break
+		}
+
 		if nums[i] == nums[i-1] {
-			nums = append(nums[:i-1], nums[i:]...)
+			moveToEnd(&nums, i)
+			counter++
 			i--
 		}
 	}
 
-	return len(nums)
+	return len(nums) - counter
+}
+
+func moveToEnd(nums *[]int, index int) {
+	for i := index; i < len(*nums)-1; i++ {
+		temp := (*nums)[i]
+		(*nums)[i] = (*nums)[i+1]
+		(*nums)[i+1] = temp
+	}
 }

@@ -6,7 +6,6 @@
 - [22.06.2021] [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 - [22.06.2021] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [22.06.2021] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
-- [22.06.2021] [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [22.06.2021] [67. Add Binary](https://leetcode.com/problems/add-binary/)
 - [22.06.2021] [155. Min Stack](https://leetcode.com/problems/min-stack/)
 - [22.06.2021] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
@@ -28,9 +27,10 @@
 - [16.07.2021] [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [16.07.2021] [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [17.07.2021] [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)
-- [17.07.2021][378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
-- [18.07.2021][718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
+- [17.07.2021] [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+- [18.07.2021] [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
 - [19.07.2021] [415. Add Strings](https://leetcode.com/problems/add-strings/)
+- [19.07.2021] [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 ## TODO Actions
 
