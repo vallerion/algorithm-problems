@@ -31,6 +31,7 @@
 - [17.07.2021] [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 - [18.07.2021] [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
 - [19.07.2021] [415. Add Strings](https://leetcode.com/problems/add-strings/)
+- [19.07.2021] [27. Remove Element](https://leetcode.com/problems/remove-element/)
 
 ## TODO Actions
 
