@@ -3,7 +3,6 @@
 ## Slow thinking or solved with help
 
 - *[date to solve again] [link]*
-- [22.06.2021] [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 - [22.06.2021] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 - [22.06.2021] [67. Add Binary](https://leetcode.com/problems/add-binary/)
 - [22.06.2021] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
@@ -144,3 +143,7 @@
 - [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+
+## Solved
+
+[989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) - **20 min**
