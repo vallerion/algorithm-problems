@@ -7,7 +7,6 @@
 - [22.06.2021] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [22.06.2021] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 - [22.06.2021] [67. Add Binary](https://leetcode.com/problems/add-binary/)
-- [22.06.2021] [155. Min Stack](https://leetcode.com/problems/min-stack/)
 - [22.06.2021] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - [22.06.2021] [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
 - [22.06.2021] [204. Count Primes](https://leetcode.com/problems/count-primes/)
@@ -32,6 +31,7 @@
 - [18.07.2021] [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
 - [19.07.2021] [415. Add Strings](https://leetcode.com/problems/add-strings/)
 - [19.07.2021] [27. Remove Element](https://leetcode.com/problems/remove-element/)
+- [19.07.2021] [155. Min Stack](https://leetcode.com/problems/min-stack/)
 
 ## TODO Actions
 
