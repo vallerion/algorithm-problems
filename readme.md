@@ -4,7 +4,6 @@
 
 - *[date to solve again] [link]*
 - [22.06.2021] [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
-- [22.06.2021] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [22.06.2021] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 - [22.06.2021] [67. Add Binary](https://leetcode.com/problems/add-binary/)
 - [22.06.2021] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
@@ -32,6 +31,7 @@
 - [19.07.2021] [415. Add Strings](https://leetcode.com/problems/add-strings/)
 - [19.07.2021] [27. Remove Element](https://leetcode.com/problems/remove-element/)
 - [19.07.2021] [155. Min Stack](https://leetcode.com/problems/min-stack/)
+- [20.07.2021] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
 ## TODO Actions
 
