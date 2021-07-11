@@ -31,6 +31,7 @@
 - [19.07.2021] [27. Remove Element](https://leetcode.com/problems/remove-element/)
 - [19.07.2021] [155. Min Stack](https://leetcode.com/problems/min-stack/)
 - [20.07.2021] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [21.07.2021] [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/)
 
 ## TODO Actions
 
@@ -146,4 +147,4 @@
 
 ## Solved
 
-[989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) - **20 min**
+[989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) - **easy / 20 min**
