@@ -8,7 +8,6 @@
 - [22.06.2021] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - [22.06.2021] [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
 - [22.06.2021] [204. Count Primes](https://leetcode.com/problems/count-primes/)
-- [22.06.2021] [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [22.06.2021] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 - [28.06.2021] [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [28.06.2021] [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
@@ -149,3 +148,4 @@
 ## Solved
 
 [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) - **easy / 20 min**
+[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) - **medium / 20 min**
