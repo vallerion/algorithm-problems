@@ -3,7 +3,6 @@
 ## Slow thinking or solved with help
 
 - *[date to solve again] [link]*
-- [22.06.2021] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 - [22.06.2021] [67. Add Binary](https://leetcode.com/problems/add-binary/)
 - [22.06.2021] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - [22.06.2021] [204. Count Primes](https://leetcode.com/problems/count-primes/)
@@ -149,3 +148,4 @@
 
 [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) - **easy / 20 min**
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) - **medium / 20 min**
+[28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) - **easy / 20 min**
