@@ -31,10 +31,13 @@
 - [21.07.2021] [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/)
 - [21.07.2021] [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 - [22.07.2021] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [22.07.2021] [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 
 ## TODO Actions
 
 - [ ] Traversal on tree without recursion
+- [ ] [KMP](https://www.youtube.com/watch?v=BXCEFAzhxGY)
+  -> [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 
 ## TODO Problems
 
