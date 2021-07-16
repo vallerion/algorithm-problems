@@ -4,7 +4,6 @@
 
 - *[date to solve again] [link]*
 - [22.06.2021] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
-- [22.06.2021] [204. Count Primes](https://leetcode.com/problems/count-primes/)
 - [28.06.2021] [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [28.06.2021] [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 - [29.06.2021] [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
@@ -31,6 +30,7 @@
 - [21.07.2021] [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 - [22.07.2021] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 - [22.07.2021] [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
+- [22.08.2021] [204. Count Primes](https://leetcode.com/problems/count-primes/)
 
 ## TODO Actions
 
