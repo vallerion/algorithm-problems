@@ -1,22 +1,27 @@
 package _75_Sort_Colors
 
 func sortColors(nums []int) {
-	mp := make(map[int]int)
+	hp := make(map[int]int)
 
 	for i := 0; i < len(nums); i++ {
-		mp[nums[i]]++
+		hp[nums[i]]++
 	}
 
 	for i := 0; i < len(nums); i++ {
-		if mp[0] > 0 {
+		if hp[0] > 0 {
 			nums[i] = 0
-			mp[0]--
-		} else if mp[1] > 0 {
+			hp[0]--
+			continue
+		}
+		if hp[1] > 0 {
 			nums[i] = 1
-			mp[1]--
-		} else {
+			hp[1]--
+			continue
+		}
+		if hp[2] > 0 {
 			nums[i] = 2
-			mp[2]--
+			hp[2]--
+			continue
 		}
 	}
 }
