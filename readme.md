@@ -150,10 +150,10 @@
 
 ## Solved
 
-[989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) - **easy / 20 min**
-[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) - **medium / 20 min**
-[28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) - **easy / 20 min**
-[67. Add Binary](https://leetcode.com/problems/add-binary/) - **easy / 15 min**
-[1. Two Sum](https://leetcode.com/problems/two-sum/) - **easy / 5 min**
-[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - **easy / 12
-min**
+- [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) - **easy / 20 min**
+- [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) - **medium / 20 min**
+- [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) - **easy / 20 min**
+- [67. Add Binary](https://leetcode.com/problems/add-binary/) - **easy / 15 min**
+- [1. Two Sum](https://leetcode.com/problems/two-sum/) - **easy / 5 min**
+- [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - **easy / 12
+  min**
