@@ -43,7 +43,7 @@
 ### Array
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
@@ -153,3 +153,4 @@
 [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) - **easy / 20 min**
 [67. Add Binary](https://leetcode.com/problems/add-binary/) - **easy / 15 min**
 [1. Two Sum](https://leetcode.com/problems/two-sum/) - **easy / 5 min**
+[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - **easy / 12 min**
