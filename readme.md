@@ -3,7 +3,6 @@
 ## Slow thinking or solved with help
 
 - *[date to solve again] [link]*
-- [02.07.2021] [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 - [05.07.2021] [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 - [10.07.2021] [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [10.07.2021] [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/)
@@ -32,6 +31,7 @@
 - [22.08.2021] [204. Count Primes](https://leetcode.com/problems/count-primes/)
 - [28.08.2021] [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [28.08.2021] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+- [15.09.2021] [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 
 ## TODO Actions
 
@@ -156,3 +156,4 @@
 - [1. Two Sum](https://leetcode.com/problems/two-sum/) - **easy / 5 min**
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - **easy / 12 min**
 - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) - **medium / 10 min**
+- [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) - **medium / 5 min**
