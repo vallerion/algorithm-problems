@@ -3,7 +3,6 @@
 ## Slow thinking or solved with help
 
 - *[date to solve again] [link]*
-- [05.07.2021] [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 - [10.07.2021] [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [10.07.2021] [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/)
 - [10.07.2021] [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
@@ -157,3 +156,4 @@
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - **easy / 12 min**
 - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) - **medium / 10 min**
 - [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) - **medium / 5 min**
+- [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) - **easy / 10 min**
