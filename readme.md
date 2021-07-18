@@ -3,9 +3,6 @@
 ## Slow thinking or solved with help
 
 - *[date to solve again] [link]*
-- [10.07.2021] [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
-- [10.07.2021] [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/)
-- [10.07.2021] [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 - [11.07.2021] [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [15.07.2021] [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
 - [16.07.2021] [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings)
@@ -27,6 +24,9 @@
 - [27.07.2021] [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 - [27.07.2021] [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
 - [01.08.2021] [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+- [10.08.2021] [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+- [10.08.2021] [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+- [10.08.2021] [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 - [22.08.2021] [204. Count Primes](https://leetcode.com/problems/count-primes/)
 - [28.08.2021] [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [28.08.2021] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
@@ -34,7 +34,9 @@
 
 ## TODO Actions
 
-- [ ] Traversal on tree without recursion
+- [ ] Traversal on tree without recursion, problems: [inorder](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+  , [preorder](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+  , [postorder](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 - [ ] [KMP](https://www.youtube.com/watch?v=BXCEFAzhxGY)
   -> [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 
@@ -157,3 +159,6 @@
 - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) - **medium / 10 min**
 - [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) - **medium / 5 min**
 - [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) - **easy / 10 min**
+- [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (recursive) - **easy / 5 min**
+- [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/) (recursive) - **easy / 5 min**
+- [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) (recursive) - **easy / 5 min**
