@@ -3,7 +3,6 @@
 ## Slow thinking or solved with help
 
 - *[date to solve again] [link]*
-- [02.07.2021] [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [02.07.2021] [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 - [05.07.2021] [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 - [10.07.2021] [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
@@ -155,5 +154,5 @@
 - [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) - **easy / 20 min**
 - [67. Add Binary](https://leetcode.com/problems/add-binary/) - **easy / 15 min**
 - [1. Two Sum](https://leetcode.com/problems/two-sum/) - **easy / 5 min**
-- [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - **easy / 12
-  min**
+- [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - **easy / 12 min**
+- [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) - **medium / 10 min**
