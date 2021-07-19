@@ -3,7 +3,6 @@
 ## Slow thinking or solved with help
 
 - *[date to solve again] [link]*
-- [16.07.2021] [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
 - [16.07.2021] [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [16.07.2021] [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [17.07.2021] [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)
@@ -30,6 +29,7 @@
 - [28.08.2021] [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [28.08.2021] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - [15.09.2021] [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+- [15.09.2021] [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
 
 ## TODO Actions
 
@@ -163,3 +163,4 @@
 - [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) (recursive) - **easy / 5 min**
 - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - **easy / 12 min**
 - [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) - **easy / 6 min**
+- [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) - **easy / 12 min**
