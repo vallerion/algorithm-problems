@@ -14,9 +14,9 @@
 - [21.07.2021] [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 - [22.07.2021] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 - [22.07.2021] [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-- [22.07.2021] [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
-- [27.07.2021] [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
-- [27.07.2021] [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
+- [24.07.2021] [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+- [25.07.2021] [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
+- [27.07.2021] [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 - [01.08.2021] [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [01.08.2021] [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
 - [01.08.2021] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) - KMP
@@ -35,7 +35,7 @@
 - [ ] Traversal on tree without recursion, problems: [inorder](https://leetcode.com/problems/binary-tree-inorder-traversal/)
   , [preorder](https://leetcode.com/problems/binary-tree-preorder-traversal/)
   , [postorder](https://leetcode.com/problems/binary-tree-postorder-traversal/)
-- [ ] [KMP](https://www.youtube.com/watch?v=BXCEFAzhxGY)
+- [x] [KMP](https://www.youtube.com/watch?v=BXCEFAzhxGY)
   -> [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 
 ## TODO Problems
@@ -51,7 +51,7 @@
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
-- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 ### Binary
 
