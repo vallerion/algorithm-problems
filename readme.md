@@ -29,6 +29,7 @@
 - [15.09.2021] [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 - [15.09.2021] [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
 - [16.09.2021] [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+- [17.09.2021] [143. Reorder List](https://leetcode.com/problems/reorder-list/)
 
 ## TODO Actions
 
@@ -101,7 +102,7 @@
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [ ] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
+- [x] [Reorder List](https://leetcode.com/problems/reorder-list/)
 
 ### Matrix
 
