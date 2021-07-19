@@ -1,46 +1,58 @@
 package _28_Implement_strStr
 
-func strStr(haystack string, needle string) int {
-	if len(haystack) == 0 {
-		if len(needle) == 0 {
-			return 0
-		} else {
-			return -1
-		}
-	}
+// "bba"
 
-	if len(needle) == 0 {
+// j=0,i=1 -> b==b -> [0 1 0],i++,j++
+// j=1,i=2 -> b!=a -> j = 0
+// j=0,i=2 -> b!=a ->
+
+func strStr(haystack string, needle string) int {
+	if len(needle) > len(haystack) {
+		return -1
+	}
+	if len(needle) == 0 && len(haystack) == 0 {
 		return 0
 	}
 
-	haystackR, needleR := []rune(haystack), []rune(needle)
+	pi := makePrefix(needle)
 
-	hashNeedle := 0
-	for i := 0; i < len(needleR); i++ {
-		hashNeedle += int(needleR[i])
+	l, k := 0, 0
+
+	for l < len(haystack) && k < len(needle) {
+		if haystack[l] == needle[k] {
+			l++
+			k++
+		} else if k == 0 {
+			l++
+		} else {
+			k = pi[k-1]
+		}
 	}
 
-	hashHaystack := 0
-
-	for i := 0; i < len(haystackR); i++ {
-		hashHaystack += int(haystackR[i])
-
-		if i >= len(needleR)-1 {
-			if hashHaystack == hashNeedle && deepCompare(haystackR, needleR, i-(len(needleR)-1)) {
-				return i-(len(needleR)-1)
-			}
-			hashHaystack -= int(haystackR[i-(len(needleR)-1)])
-		}
+	if k == len(needle) {
+		return l - len(needle)
 	}
 
 	return -1
 }
 
-func deepCompare(haystack, needle []rune, start int) bool {
-	for i := start; i < start+len(needle); i++ {
-		if haystack[i] != needle[i-start] {
-			return false
+func makePrefix(str string) []int {
+	st := []rune(str)
+	pi := make([]int, len(str))
+	j, i := 0, 1
+
+	for i < len(st) {
+
+		if st[i] == st[j] {
+			pi[i] = j + 1
+			i++
+			j++
+		} else if j == 0 {
+			i++
+		} else {
+			j = pi[j-1]
 		}
 	}
-	return true
+
+	return pi
 }
