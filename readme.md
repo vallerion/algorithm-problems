@@ -2,11 +2,11 @@
 
 ## Slow thinking or solved with help
 
-- *[date to solve again] [link]*
+- *[date to solve again] [link]* (макс 2 на день)
 - [18.07.2021] [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
 - [19.07.2021] [415. Add Strings](https://leetcode.com/problems/add-strings/)
 - [19.07.2021] [27. Remove Element](https://leetcode.com/problems/remove-element/)
-- [19.07.2021] [155. Min Stack](https://leetcode.com/problems/min-stack/)
+- [20.07.2021] [155. Min Stack](https://leetcode.com/problems/min-stack/)
 - [20.07.2021] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [21.07.2021] [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/)
 - [21.07.2021] [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
@@ -17,10 +17,10 @@
 - [27.07.2021] [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 - [01.08.2021] [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [01.08.2021] [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
-- [01.08.2021] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) - KMP
+- [02.08.2021] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) - KMP
 - [10.08.2021] [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [10.08.2021] [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
-- [10.08.2021] [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+- [11.08.2021] [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 - [11.08.2021] [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 - [22.08.2021] [204. Count Primes](https://leetcode.com/problems/count-primes/)
 - [28.08.2021] [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
