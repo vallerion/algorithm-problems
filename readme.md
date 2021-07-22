@@ -3,7 +3,6 @@
 ## Slow thinking or solved with help
 
 - *[date to solve again] [link]* (макс 2 на день)
-- [19.07.2021] [415. Add Strings](https://leetcode.com/problems/add-strings/)
 - [19.07.2021] [27. Remove Element](https://leetcode.com/problems/remove-element/)
 - [20.07.2021] [155. Min Stack](https://leetcode.com/problems/min-stack/)
 - [20.07.2021] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
@@ -167,3 +166,4 @@
 - [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) - **easy / 10 min**
 - [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - **easy / 10 min**
 - [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) - **medium / 15 min**
+- [415. Add Strings](https://leetcode.com/problems/add-strings/) - **easy / 11 min**
