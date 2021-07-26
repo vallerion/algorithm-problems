@@ -5,7 +5,7 @@ type MinStack struct {
 }
 
 func Constructor() MinStack {
-	return MinStack{make([]int, 0), make([]int, 0)}
+	return MinStack{[]int{}, []int{}}
 }
 
 func (this *MinStack) Push(val int) {
@@ -17,14 +17,10 @@ func (this *MinStack) Push(val int) {
 }
 
 func (this *MinStack) Pop() {
-	if len(this.values) == 0 {
-		return
-	}
-
-	popVal := this.values[len(this.values)-1]
+	top := this.values[len(this.values)-1]
 	this.values = this.values[:len(this.values)-1]
 
-	if popVal == this.mins[len(this.mins)-1] {
+	if len(this.mins) > 0 && top == this.mins[len(this.mins)-1] {
 		this.mins = this.mins[:len(this.mins)-1]
 	}
 }
