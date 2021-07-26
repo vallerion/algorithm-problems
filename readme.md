@@ -3,7 +3,6 @@
 ## Slow thinking or solved with help
 
 - *[date to solve again] [link]* (макс 2 на день)
-- [19.07.2021] [27. Remove Element](https://leetcode.com/problems/remove-element/)
 - [20.07.2021] [155. Min Stack](https://leetcode.com/problems/min-stack/)
 - [20.07.2021] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [21.07.2021] [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/)
@@ -16,6 +15,7 @@
 - [01.08.2021] [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [01.08.2021] [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
 - [02.08.2021] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) - KMP
+- [03.08.2021] [27. Remove Element](https://leetcode.com/problems/remove-element/)
 - [10.08.2021] [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [10.08.2021] [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - [11.08.2021] [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
