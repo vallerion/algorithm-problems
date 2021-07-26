@@ -11,10 +11,13 @@
 - [24.07.2021] [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 - [25.07.2021] [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
 - [27.07.2021] [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
-- [01.08.2021] [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
-- [01.08.2021] [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
-- [02.08.2021] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) - KMP
-- [03.08.2021] [27. Remove Element](https://leetcode.com/problems/remove-element/)
+- [03.08.2021] [55. Jump Game](https://leetcode.com/problems/jump-game/)
+- [04.08.2021] [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+- [05.08.2021] [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
+- [06.08.2021] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) - KMP
+- [07.08.2021] [27. Remove Element](https://leetcode.com/problems/remove-element/)
+- [08.08.2021] [15. 3Sum](https://leetcode.com/problems/3sum/)
+- [09.08.2021] [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [10.08.2021] [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [10.08.2021] [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - [11.08.2021] [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
