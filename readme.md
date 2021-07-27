@@ -3,7 +3,6 @@
 ## Slow thinking or solved with help
 
 - *[date to solve again] [link]* (макс 2 на день)
-- [20.07.2021] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [21.07.2021] [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/)
 - [21.07.2021] [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 - [22.07.2021] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
@@ -173,3 +172,4 @@
 - [415. Add Strings](https://leetcode.com/problems/add-strings/) - **easy / 11 min**
 - [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) - **easy / 12 min**
 - [155. Min Stack](https://leetcode.com/problems/min-stack/) - **easy / 5 min**
+- [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - **easy / 7 min**
