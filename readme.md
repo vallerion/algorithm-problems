@@ -3,7 +3,6 @@
 ## Slow thinking or solved with help
 
 - *[date to solve again] [link]* (макс 2 на день)
-- [21.07.2021] [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/)
 - [21.07.2021] [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 - [22.07.2021] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 - [22.07.2021] [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
@@ -33,6 +32,7 @@
 - [18.09.2021] [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)
 - [18.09.2021] [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
 - [19.09.2021] [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- [20.09.2021] [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 
 ## TODO Actions
 
@@ -175,3 +175,4 @@
 - [155. Min Stack](https://leetcode.com/problems/min-stack/) - **easy / 5 min**
 - [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - **easy / 7 min**
 - [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) - **medium / 12 min**
+- [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) - **easy / 12 min**
