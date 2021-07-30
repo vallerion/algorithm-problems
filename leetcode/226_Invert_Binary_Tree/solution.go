@@ -1,26 +1,20 @@
 package _226_Invert_Binary_Tree
 
 type TreeNode struct {
-	Val   int
-	Left  *TreeNode
+	Val int
+	Left *TreeNode
 	Right *TreeNode
 }
 
 func invertTree(root *TreeNode) *TreeNode {
-	invert(root)
-	return root
-}
-
-func invert(root *TreeNode) {
-
 	if root == nil {
-		return
+		return nil
 	}
 
-	temp := root.Left
-	root.Left = root.Right
-	root.Right = temp
+	root.Left, root.Right = root.Right, root.Left
 
-	invert(root.Left)
-	invert(root.Right)
+	root.Left = invertTree(root.Left)
+	root.Right = invertTree(root.Right)
+
+	return root
 }
