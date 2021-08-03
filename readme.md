@@ -3,7 +3,6 @@
 ## Slow thinking or solved with help
 
 - *[date to solve again] [link]* (макс 2 на день)
-- [22.07.2021] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 - [22.07.2021] [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [24.07.2021] [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 - [25.07.2021] [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
@@ -38,6 +37,7 @@
 - [18.09.2021] [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
 - [19.09.2021] [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [20.09.2021] [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+- [03.10.2021] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 - [15.10.2021] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
 ## TODO Actions
@@ -185,3 +185,4 @@
 - [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) - **medium / 10 min**
 - [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) - **easy / 3 min**
 - [Same Tree](https://leetcode.com/problems/same-tree/) - **easy / 5 min**
+- [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) - **medium / 10 min**
