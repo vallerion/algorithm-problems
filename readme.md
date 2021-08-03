@@ -53,7 +53,7 @@
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
@@ -188,3 +188,4 @@
 | [Same Tree](https://leetcode.com/problems/same-tree/) | easy | 5 min |
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | medium | 10 min |
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | easy | 8 min |
+| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | easy | 3 min |
