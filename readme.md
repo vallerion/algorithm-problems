@@ -157,32 +157,34 @@
 
 ## Solved
 
-- [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) - **easy / 20 min**
-- [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) - **medium / 20 min**
-- [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) - **easy / 20 min**
-- [67. Add Binary](https://leetcode.com/problems/add-binary/) - **easy / 15 min**
-- [1. Two Sum](https://leetcode.com/problems/two-sum/) - **easy / 5 min**
-- [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - **easy / 12 min**
-- [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) - **medium / 10 min**
-- [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) - **medium / 5 min**
-- [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) - **easy / 10 min**
-- [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (recursive) - **easy / 5 min**
-- [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/) (recursive) - **easy / 5 min**
-- [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) (recursive) - **easy / 5 min**
-- [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - **easy / 12 min**
-- [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) - **easy / 6 min**
-- [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) - **easy / 12 min**
-- [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) - **easy / 10 min**
-- [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - **easy / 10 min**
-- [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) - **medium / 15 min**
-- [415. Add Strings](https://leetcode.com/problems/add-strings/) - **easy / 11 min**
-- [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) - **easy / 12 min**
-- [155. Min Stack](https://leetcode.com/problems/min-stack/) - **easy / 5 min**
-- [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - **easy / 7 min**
-- [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) - **medium / 12 min**
-- [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) - **easy / 12 min**
-- [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) - **medium / 10 min**
-- [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) - **easy / 3 min**
-- [Same Tree](https://leetcode.com/problems/same-tree/) - **easy / 5 min**
-- [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) - **medium / 10 min**
-- [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) - **easy / 8 min**
+| Task | Complexity | Time
+---
+| [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | easy | 20 min
+| [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | medium | 20 min
+| [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) | easy | 20 min
+| [67. Add Binary](https://leetcode.com/problems/add-binary/) | easy | 15 min
+| [1. Two Sum](https://leetcode.com/problems/two-sum/) | easy | 5 min
+| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | easy | 12 min
+| [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | medium | 10 min
+| [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | medium | 5 min
+| [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | easy | 10 min
+| [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (recursive) | easy | 5 min
+| [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/) (recursive) | easy | 5 min
+| [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) (recursive) | easy | 5 min
+| [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | easy | 12 min
+| [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | easy | 6 min
+| [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | easy | 12 min
+| [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | easy | 10 min
+| [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | easy | 10 min
+| [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | medium | 15 min
+| [415. Add Strings](https://leetcode.com/problems/add-strings/) | easy | 11 min
+| [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | easy | 12 min
+| [155. Min Stack](https://leetcode.com/problems/min-stack/) | easy | 5 min
+| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | easy | 7 min
+| [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | medium | 12 min
+| [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | easy | 12 min
+| [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | medium | 10 min
+| [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | easy | 3 min
+| [Same Tree](https://leetcode.com/problems/same-tree/) | easy | 5 min
+| [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | medium | 10 min
+| [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | easy | 8 min

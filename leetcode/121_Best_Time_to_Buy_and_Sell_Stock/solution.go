@@ -10,10 +10,8 @@ func maxProfit(prices []int) int {
 	for j < len(prices) {
 		diff := prices[j] - prices[i]
 
-		if diff <= 0 {
+		if diff < 0 {
 			i = j
-			j++
-			continue
 		}
 
 		if diff > profit {
