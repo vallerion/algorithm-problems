@@ -3,7 +3,6 @@
 ## Slow thinking or solved with help
 
 - *[date to solve again] [link]* (макс 2 на день)
-- [24.07.2021] [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 - [25.07.2021] [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
 - [27.07.2021] [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 - [03.08.2021] [62. Unique Paths](https://leetcode.com/problems/unique-paths/)
@@ -186,3 +185,4 @@
 - [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) - **easy / 3 min**
 - [Same Tree](https://leetcode.com/problems/same-tree/) - **easy / 5 min**
 - [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) - **medium / 10 min**
+- [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) - **easy / 8 min**
