@@ -3,7 +3,6 @@
 ## Slow thinking or solved with help
 
 - *[date to solve again] [link]* (макс 2 на день)
-- [22.07.2021] [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [24.07.2021] [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 - [25.07.2021] [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
 - [27.07.2021] [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
@@ -15,6 +14,7 @@
 - [05.08.2021] [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [06.08.2021] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) - KMP
 - [07.08.2021] [27. Remove Element](https://leetcode.com/problems/remove-element/)
+- [07.08.2021] [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [08.08.2021] [15. 3Sum](https://leetcode.com/problems/3sum/)
 - [09.08.2021] [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [10.08.2021] [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
