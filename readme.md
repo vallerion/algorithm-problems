@@ -4,8 +4,6 @@
 
 - *[date to solve again] [link]* (макс 2 на день)
 - [25.07.2021] [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
-- [27.07.2021] [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
-- [03.08.2021] [62. Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [03.08.2021] [55. Jump Game](https://leetcode.com/problems/jump-game/)
 - [04.08.2021] [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [04.08.2021] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)
@@ -15,6 +13,7 @@
 - [07.08.2021] [27. Remove Element](https://leetcode.com/problems/remove-element/)
 - [07.08.2021] [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [08.08.2021] [15. 3Sum](https://leetcode.com/problems/3sum/)
+- [08.08.2021] [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 - [09.08.2021] [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [10.08.2021] [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [10.08.2021] [322. Coin Change](https://leetcode.com/problems/coin-change/)
@@ -189,3 +188,4 @@
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | medium | 10 min |
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | easy | 8 min |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | easy | 3 min |
+| [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | medium | 6 min |
