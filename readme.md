@@ -4,7 +4,6 @@
 
 - *[date to solve again] [link]* (макс 2 на день)
 - [25.07.2021] [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
-- [03.08.2021] [55. Jump Game](https://leetcode.com/problems/jump-game/)
 - [04.08.2021] [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [04.08.2021] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)
 - [05.08.2021] [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
@@ -27,6 +26,7 @@
 - [01.09.2021] [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 - [02.09.2021] [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)
 - [03.09.2021] [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+- [03.09.2021] [55. Jump Game](https://leetcode.com/problems/jump-game/)
 - [15.09.2021] [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 - [15.09.2021] [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
 - [16.09.2021] [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
@@ -189,3 +189,4 @@
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | easy | 8 min |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | easy | 3 min |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | medium | 6 min |
+| [55. Jump Game](https://leetcode.com/problems/jump-game/) | medium | 6 min |
