@@ -5,7 +5,6 @@
 - *[date to solve again] [link]* (макс 2 на день)
 - [25.07.2021] [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
 - [04.08.2021] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)
-- [05.08.2021] [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [06.08.2021] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) - KMP
 - [07.08.2021] [27. Remove Element](https://leetcode.com/problems/remove-element/)
 - [07.08.2021] [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
@@ -195,3 +194,4 @@
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | easy | 3 min |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | medium | 6 min |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | medium | 6 min |
+| [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| medium | 13 min |
