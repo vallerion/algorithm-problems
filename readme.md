@@ -31,6 +31,7 @@
 - [02.09.2021] [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)
 - [03.09.2021] [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 - [03.09.2021] [55. Jump Game](https://leetcode.com/problems/jump-game/)
+- [04.09.2021] [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 - [15.09.2021] [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 - [15.09.2021] [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
 - [16.09.2021] [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
@@ -194,4 +195,5 @@
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | easy | 3 min |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | medium | 6 min |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | medium | 6 min |
-| [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| medium | 13 min |
+| [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | medium | 13 min |
+| [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | medium | 12 min |
