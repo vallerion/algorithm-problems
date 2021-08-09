@@ -196,4 +196,4 @@
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | medium | 6 min |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | medium | 6 min |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | medium | 13 min |
-| [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | medium | 12 min |
+| [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | easy | 12 min |
