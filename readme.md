@@ -21,6 +21,7 @@
 - [13.08.2021] [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [14.08.2021] [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [15.08.2021] [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+- [16.08.2021] [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
 - [22.08.2021] [204. Count Primes](https://leetcode.com/problems/count-primes/)
 - [28.08.2021] [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [28.08.2021] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
