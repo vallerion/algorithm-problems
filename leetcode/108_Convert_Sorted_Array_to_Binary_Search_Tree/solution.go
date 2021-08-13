@@ -6,25 +6,20 @@ type TreeNode struct {
 	Right *TreeNode
 }
 
-// [-10,-3,0,5,9], len=5 -> 5/2=2
-//    0  1 2 3 4
-
-// 0 ->
-
 func sortedArrayToBST(nums []int) *TreeNode {
 	if len(nums) == 0 {
 		return nil
 	}
 
-	return arrToTree(nums, 0, len(nums)-1)
+	return helper(nums, 0, len(nums)-1)
 }
 
-func arrToTree(nums []int, start, end int) *TreeNode {
+func helper(nums []int, start, end int) *TreeNode {
 	if start > end {
 		return nil
 	}
 
 	q := start + ((end - start) / 2)
 
-	return &TreeNode{nums[q], arrToTree(nums, start, q-1), arrToTree(nums, q+1, end)}
+	return &TreeNode{nums[q], helper(nums, start, q-1), helper(nums, q+1, end)}
 }
