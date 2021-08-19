@@ -6,7 +6,7 @@
 - [25.07.2021] [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
 - [04.08.2021] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)
 - [06.08.2021] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) - KMP
-- [08.08.2021] [15. 3Sum](https://leetcode.com/problems/3sum/)
+- [08.08.2021] [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [08.08.2021] [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 - [09.08.2021] [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [09.08.2021] [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
@@ -21,6 +21,7 @@
 - [15.08.2021] [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 - [16.08.2021] [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
 - [22.08.2021] [204. Count Primes](https://leetcode.com/problems/count-primes/)
+- [23.08.2021] [15. 3Sum](https://leetcode.com/problems/3sum/)
 - [28.08.2021] [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [28.08.2021] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - [29.08.2021] [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
