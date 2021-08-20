@@ -209,3 +209,4 @@
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | easy | 12 min |
 | [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | easy | 5 min |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | easy | 17 min |
+| [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | easy | 9 min |
