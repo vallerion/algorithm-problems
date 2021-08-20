@@ -24,6 +24,7 @@
 - [23.08.2021] [15. 3Sum](https://leetcode.com/problems/3sum/)
 - [24.08.2021] [1339. Maximum_Product_of_Splitted_Binary_Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)
 - [25.08.2021] [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) - вспомнить решение и разобрать еще раз
+- [25.08.2021] [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) - make it in O(n)
 - [28.08.2021] [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [28.08.2021] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - [29.08.2021] [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
