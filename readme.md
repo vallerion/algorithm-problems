@@ -25,6 +25,7 @@
 - [24.08.2021] [1339. Maximum_Product_of_Splitted_Binary_Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)
 - [25.08.2021] [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) - вспомнить решение и разобрать еще раз
 - [25.08.2021] [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) - make it in O(n)
+- [25.08.2021] [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) - вспомнить решение и разобрать еще раз
 - [28.08.2021] [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [28.08.2021] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - [29.08.2021] [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
@@ -56,6 +57,9 @@
   , [postorder](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 - [x] [KMP](https://www.youtube.com/watch?v=BXCEFAzhxGY)
   -> [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
+- [ ] Solve [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) with [Trie](https://leetcode.com/problems/implement-trie-prefix-tree/solution/) 
+- [ ] Solve [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) with [Approach 4: Binary search](https://leetcode.com/problems/longest-common-prefix/solution/) 
+- [ ] Solve [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) with [Approach 3: Divide and conquer](https://leetcode.com/problems/longest-common-prefix/solution/) 
 
 ## TODO Problems
 
@@ -204,3 +208,4 @@
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | medium | 13 min |
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | easy | 12 min |
 | [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | easy | 5 min |
+| [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | easy | 17 min |
