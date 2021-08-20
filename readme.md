@@ -22,6 +22,7 @@
 - [16.08.2021] [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
 - [22.08.2021] [204. Count Primes](https://leetcode.com/problems/count-primes/)
 - [23.08.2021] [15. 3Sum](https://leetcode.com/problems/3sum/)
+- [24.08.2021] [1339_Maximum_Product_of_Splitted_Binary_Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)
 - [28.08.2021] [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [28.08.2021] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - [29.08.2021] [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
