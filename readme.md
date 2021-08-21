@@ -49,6 +49,7 @@
 - [21.09.2021] [133. Clone Graph](https://leetcode.com/problems/clone-graph/)
 - [03.10.2021] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 - [15.10.2021] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [16.10.2021] [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
 ## TODO Actions
 
