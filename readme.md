@@ -50,7 +50,7 @@
 - [15.10.2021] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [16.10.2021] [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 - [17.10.2021] [127. Word Ladder](https://leetcode.com/problems/word-ladder/) - повторить решение и решить через bidirectional search
-- [17.10.2021] [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) - решить без перевода дерева в массив + изучить follow-up
+- [18.10.2021] [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) - решить без перевода дерева в массив + изучить follow-up
 
 ## TODO Actions
 
@@ -213,3 +213,4 @@
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | easy | 17 min |
 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | easy | 9 min |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | medium | 12 min |
+| [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | medium | 10 min |
