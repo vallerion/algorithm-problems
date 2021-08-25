@@ -8,7 +8,6 @@
 - [06.08.2021] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) - KMP
 - [08.08.2021] [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [08.08.2021] [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
-- [09.08.2021] [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [09.08.2021] [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 - [10.08.2021] [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [10.08.2021] [322. Coin Change](https://leetcode.com/problems/coin-change/)
@@ -212,3 +211,4 @@
 | [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | easy | 5 min |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | easy | 17 min |
 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | easy | 9 min |
+| [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | medium | 12 min |
