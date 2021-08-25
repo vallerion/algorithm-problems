@@ -50,6 +50,7 @@
 - [03.10.2021] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 - [15.10.2021] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [16.10.2021] [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+- [17.10.2021] [127. Word Ladder](https://leetcode.com/problems/word-ladder/) - повторить решение и решить через bidirectional search
 
 ## TODO Actions
 

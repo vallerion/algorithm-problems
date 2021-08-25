@@ -1,48 +1,71 @@
 package _127_Word_Ladder
 
+// "a" -> a,b,c
+// "c" -> a,b,c
+// ["a","b","c"]
+// a -> c
+
+// level = 2
+// "hot" -> hot,dot | level=3
+// "dog" -> dog,dot | level=4
+// "hot" -> hot,dot -> dog | return level-1 -> 3
+// "dog" -> dog,dot
+
+// ["hot","dog","dot"]
+// hot -> dot -> dog
+
+// "red" -> ted,rex -> tex,red -> tax
+// "tax" -> tad -> ted
+// ["ted","tex","red","tax","tad","den","rex","pee"]
+
 func ladderLength(beginWord string, endWord string, wordList []string) int {
 	check := existsInList(endWord, wordList)
 	if check == false {
 		return 0
 	}
 
-	hp := make(map[string]bool)
+	level := 2
+
+	beginMap, endMap := make(map[string]bool), make(map[string]bool)
 	for i := 0; i < len(wordList); i++ {
-		hp[wordList[i]] = false
+		beginMap[wordList[i]] = true
+		endMap[wordList[i]] = true
 	}
 
 	beginQueue, endQueue := make([]string, 0), make([]string, 0)
 	beginQueue = append(beginQueue, beginWord)
 	endQueue = append(endQueue, endWord)
 
-	level := 1
-
 	for len(beginQueue) > 0 && len(endQueue) > 0 {
 		beginLen, endLen := len(beginQueue), len(endQueue)
+
+		if isIntersecting(&beginMap, &endMap) {
+			return level - 1
+		}
+
 		level++
-
-		//if isIntersecting(&beginMap, &endMap) {
-		//	return level
-		//}
-
 		for i := 0; i < beginLen; i++ {
-			for word, usable := range hp {
-				if usable == false && couldUse(beginQueue[i], word) {
-					return level
-				} else if couldUse(beginQueue[i], word) {
+			for word, usable := range beginMap {
+				if usable == true && couldUse(beginQueue[i], word) {
+					if word == endWord {
+						return level
+					}
+
 					beginQueue = append(beginQueue, word)
-					hp[word] = false
+					beginMap[word] = false
 				}
 			}
 		}
 
+		level++
 		for i := 0; i < endLen; i++ {
-			for word, usable := range hp {
-				if usable == false && couldUse(endQueue[i], word) {
-					return level
-				} else if couldUse(endQueue[i], word) {
+			for word, usable := range endMap {
+				if usable == true && couldUse(endQueue[i], word) {
+					if word == beginWord {
+						return level
+					}
 					endQueue = append(endQueue, word)
-					hp[word] = false
+					endMap[word] = false
 				}
 			}
 		}
