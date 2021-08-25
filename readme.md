@@ -22,8 +22,10 @@
 - [22.08.2021] [204. Count Primes](https://leetcode.com/problems/count-primes/)
 - [23.08.2021] [15. 3Sum](https://leetcode.com/problems/3sum/)
 - [24.08.2021] [1339. Maximum_Product_of_Splitted_Binary_Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)
-- [25.08.2021] [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) - вспомнить решение и разобрать еще раз
-- [25.08.2021] [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) - make it in O(n)
+- [25.08.2021] [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) - вспомнить решение и
+  разобрать еще раз
+- [25.08.2021] [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+  - make it in O(n)
 - [25.08.2021] [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) - вспомнить решение и разобрать еще раз
 - [28.08.2021] [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [28.08.2021] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
@@ -50,7 +52,8 @@
 - [15.10.2021] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [16.10.2021] [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 - [17.10.2021] [127. Word Ladder](https://leetcode.com/problems/word-ladder/) - повторить решение и решить через bidirectional search
-- [18.10.2021] [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) - решить без перевода дерева в массив + изучить follow-up
+- [18.10.2021] [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) - решить без перевода дерева в массив
+  + изучить follow-up
 
 ## TODO Actions
 
@@ -59,9 +62,12 @@
   , [postorder](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 - [x] [KMP](https://www.youtube.com/watch?v=BXCEFAzhxGY)
   -> [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
-- [ ] Solve [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) with [Trie](https://leetcode.com/problems/implement-trie-prefix-tree/solution/) 
-- [ ] Solve [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) with [Approach 4: Binary search](https://leetcode.com/problems/longest-common-prefix/solution/) 
-- [ ] Solve [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) with [Approach 3: Divide and conquer](https://leetcode.com/problems/longest-common-prefix/solution/) 
+- [ ] Solve [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+  with [Trie](https://leetcode.com/problems/implement-trie-prefix-tree/solution/)
+- [ ] Solve [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+  with [Approach 4: Binary search](https://leetcode.com/problems/longest-common-prefix/solution/)
+- [ ] Solve [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+  with [Approach 3: Divide and conquer](https://leetcode.com/problems/longest-common-prefix/solution/)
 
 ## TODO Problems
 
@@ -214,3 +220,4 @@
 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | easy | 9 min |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | medium | 12 min |
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | medium | 10 min |
+| [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | easy | 10 min |
