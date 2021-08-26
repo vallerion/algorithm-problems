@@ -27,6 +27,7 @@
 - [25.08.2021] [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
   - make it in O(n)
 - [25.08.2021] [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) - вспомнить решение и разобрать еще раз
+- [26.08.2021] [198. House Robber](https://leetcode.com/problems/house-robber/) - вспомнить решение и разобрать еще раз
 - [28.08.2021] [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [28.08.2021] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - [29.08.2021] [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
