@@ -9,7 +9,6 @@
 - [08.08.2021] [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [08.08.2021] [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 - [09.08.2021] [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
-- [10.08.2021] [322. Coin Change](https://leetcode.com/problems/coin-change/)
 - [11.08.2021] [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 - [12.08.2021] [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - [13.08.2021] [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
@@ -267,3 +266,4 @@
 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) (iterative) | easy | 16 min |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | easy | 10 min |
 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | easy | 10 min |
+| [322. Coin Change](https://leetcode.com/problems/coin-change/) | medium | 25 min |
