@@ -38,6 +38,7 @@
 - [05.09.2021] [984. String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/)
 - [06.09.2021] [27. Remove Element](https://leetcode.com/problems/remove-element/)
 - [07.09.2021] [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [07.09.2021] [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 - [08.09.2021] [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - [15.09.2021] [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 - [15.09.2021] [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
