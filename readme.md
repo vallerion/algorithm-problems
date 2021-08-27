@@ -12,7 +12,6 @@
 - [10.08.2021] [322. Coin Change](https://leetcode.com/problems/coin-change/)
 - [11.08.2021] [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 - [11.08.2021] [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
-- [12.08.2021] [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - [12.08.2021] [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - [13.08.2021] [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [14.08.2021] [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
@@ -51,6 +50,7 @@
 - [20.09.2021] [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 - [21.09.2021] [133. Clone Graph](https://leetcode.com/problems/clone-graph/)
 - [03.10.2021] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [12.10.2021] [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - [15.10.2021] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [16.10.2021] [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 - [17.10.2021] [127. Word Ladder](https://leetcode.com/problems/word-ladder/) - повторить решение и решить через bidirectional search
