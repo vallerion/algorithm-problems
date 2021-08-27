@@ -56,6 +56,7 @@
 - [17.10.2021] [127. Word Ladder](https://leetcode.com/problems/word-ladder/) - повторить решение и решить через bidirectional search
 - [18.10.2021] [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) - решить без перевода дерева в массив
   + изучить follow-up
+- [19.10.2021] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
 ## TODO Actions
 
@@ -263,3 +264,4 @@
 | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | easy | 10 min |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (iterative) | easy | 8 min |
 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) (iterative) | easy | 16 min |
+| [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | easy | 10 min |
