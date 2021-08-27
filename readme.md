@@ -9,7 +9,6 @@
 - [08.08.2021] [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [08.08.2021] [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 - [09.08.2021] [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
-- [10.08.2021] [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [10.08.2021] [322. Coin Change](https://leetcode.com/problems/coin-change/)
 - [11.08.2021] [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 - [11.08.2021] [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
@@ -262,3 +261,4 @@
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | medium | 12 min |
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | medium | 10 min |
 | [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | easy | 10 min |
+| [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (iterative) | easy | 8 min |
