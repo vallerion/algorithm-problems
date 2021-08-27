@@ -28,6 +28,7 @@
   - make it in O(n)
 - [25.08.2021] [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) - вспомнить решение и разобрать еще раз
 - [26.08.2021] [198. House Robber](https://leetcode.com/problems/house-robber/) - вспомнить решение и разобрать еще раз
+- [26.08.2021] [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) - вспомнить решение и разобрать еще раз
 - [28.08.2021] [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [28.08.2021] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - [29.08.2021] [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
@@ -84,6 +85,10 @@
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
 - [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
+- [ ] [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)
+- [ ] [Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/)
+- [ ] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 
 ### Binary
 
@@ -97,6 +102,7 @@
 
 - [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
+- [ ] [Coin Change 2](https://leetcode.com/problems/coin-change-2/)
 - [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 - [ ] [Word Break Problem](https://leetcode.com/problems/word-break/)
@@ -104,8 +110,17 @@
 - [ ] [House Robber](https://leetcode.com/problems/house-robber/)
 - [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/)
+- [ ] [Subsets](https://leetcode.com/problems/subsets/)
 - [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
+- [ ] [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 - [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
+- [ ] [Permutations](https://leetcode.com/problems/permutations/)
+- [ ] [Permutations II](https://leetcode.com/problems/permutations-ii/)
+- [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+- [ ] [Flood Fill](https://leetcode.com/problems/flood-fill/)
+- [ ] [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
+- [ ] [N-Queens](https://leetcode.com/problems/n-queens/)
+- [ ] [Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/)
 
 ### Graph
 
@@ -132,8 +147,16 @@
 - [ ] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [ ] [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [x] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [x] [Reorder List](https://leetcode.com/problems/reorder-list/)
+- [ ] [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+- [ ] [Partition List](https://leetcode.com/problems/partition-list/)
+- [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+- [ ] [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
+- [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+- [ ] [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- [ ] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 
 ### Matrix
 
@@ -153,9 +176,14 @@
 - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+- [ ] [Rotate String](https://leetcode.com/problems/rotate-string/)
+- [ ] [String Compression](https://leetcode.com/problems/string-compression/)
+- [ ] [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+- [ ] [Edit Distance](https://leetcode.com/problems/edit-distance/)
 - [ ] [Encode and Decode Strings (Leetcode Premium)](https://leetcode.com/problems/encode-and-decode-strings/)
+- [ ] [Palindrome Permutation (Leetcode Premium)](https://leetcode.com/problems/palindrome-permutation/)
 
-### Tree
+### Tree and Graphs
 
 - [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [x] [Same Tree](https://leetcode.com/problems/same-tree/)
@@ -171,6 +199,17 @@
 - [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [ ] [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
 - [ ] [Word Search II](https://leetcode.com/problems/word-search-ii/)
+- [ ] [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+- [ ] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+- [ ] [Path Sum](https://leetcode.com/problems/path-sum/)
+- [ ] [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+- [ ] [Path Sum III](https://leetcode.com/problems/path-sum-iii/)
+- [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [ ] [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+- [ ] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+- [ ] [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/)
+- [ ] [Inorder Successor in BST ((Leetcode Premium))](https://leetcode.com/problems/inorder-successor-in-bst/)
+- [ ] [Inorder Successor in BST II ((Leetcode Premium))](https://leetcode.com/problems/inorder-successor-in-bst-ii/)
 
 ### Heap
 
