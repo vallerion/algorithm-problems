@@ -6,7 +6,7 @@ type TreeNode struct {
 	Right *TreeNode
 }
 
-func postorderTraversal(root *TreeNode) []int {
+func postorderTraversalRecursive(root *TreeNode) []int {
 	res := make([]int, 0)
 	traversal(root, &res)
 	return res
