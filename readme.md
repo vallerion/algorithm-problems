@@ -267,3 +267,4 @@
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | easy | 10 min |
 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | easy | 10 min |
 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | medium | 25 min |
+| [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | easy | 3 min |

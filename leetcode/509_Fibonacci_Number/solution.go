@@ -1,19 +1,14 @@
 package _509_Fibonacci_Number
 
-// 0 1 1 2 3 5 8 13 21
-// 0 1 2 3 4 5 6  7  8
 func fib(n int) int {
-	if n == 0 {
-		return 0
+	if n <= 1 {
+		return n
 	}
 
-	first := 0
-	second := 1
-	i := 1
+	first, second := 0, 1
 
-	for i < n {
-		first, second = second, first + second
-		i++
+	for i := 1; i < n; i++ {
+		second, first = first+second, second
 	}
 
 	return second
