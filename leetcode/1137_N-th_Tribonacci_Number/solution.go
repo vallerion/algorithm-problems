@@ -1,7 +1,7 @@
 package _1137_N_th_Tribonacci_Number
 
 func tribonacci(n int) int {
-	t1, t2, t3 := 0, 1, 1
+	first, second, third := 0, 1, 1
 
 	if n == 0 {
 		return 0
@@ -10,11 +10,8 @@ func tribonacci(n int) int {
 	}
 
 	for i := 2; i < n; i++ {
-		temp1, temp2 := t1, t2
-		t1 = t2
-		t2 = t3
-		t3 = temp1 + temp2
+		third, first, second = first+second+third, second, third
 	}
 
-	return t3
+	return third
 }
