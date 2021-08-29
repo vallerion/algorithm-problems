@@ -1,20 +1,22 @@
 package _70_Climbing_Stairs
 
-// 1 -> 1
-// 2 -> 1+1 2
-// 3 -> 1+1+1 2+1 1+2
-// 4 -> 2+2 1+1+1+1 2+1+1 1+2+1 1+1+2
+// 0 -> 0
+// 1 -> 1 -> 1
+// 2 -> 2, 1+1 -> 2
+// 3 -> 2+1,1+1+1,1+2 -> 3
+// 4 -> 2+2,1+1+1+1,2+1+1,1+1+2,1+2+1 -> 5
+// 5 ->
 
 func climbStairs(n int) int {
-	prev1, prev2 := 1, 2
-
-	if n <= 3 {
+	if n <= 2 {
 		return n
 	}
 
+	first, second := 1, 2
+
 	for i := 2; i < n; i++ {
-		prev2, prev1 = prev1+prev2, prev2
+		second, first = first+second, second
 	}
 
-	return prev2
+	return second
 }
