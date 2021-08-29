@@ -24,7 +24,6 @@
 - [25.08.2021] [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) - вспомнить решение и разобрать еще раз
 - [26.08.2021] [198. House Robber](https://leetcode.com/problems/house-robber/) - вспомнить решение и разобрать еще раз
 - [26.08.2021] [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) - вспомнить решение и разобрать еще раз
-- [28.08.2021] [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [28.08.2021] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - [29.08.2021] [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
 - [01.09.2021] [206. Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
@@ -268,3 +267,4 @@
 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | easy | 10 min |
 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | medium | 25 min |
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | easy | 3 min |
+| [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | medium | 6 min |
