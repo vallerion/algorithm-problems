@@ -30,7 +30,6 @@
 - [01.09.2021] [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 - [02.09.2021] [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)
 - [03.09.2021] [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
-- [03.09.2021] [55. Jump Game](https://leetcode.com/problems/jump-game/)
 - [04.09.2021] [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 - [05.09.2021] [984. String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/)
 - [06.09.2021] [27. Remove Element](https://leetcode.com/problems/remove-element/)
