@@ -3,58 +3,6 @@
 ## Slow thinking or solved with help
 
 - *[date to solve again] [link]* (макс 2 на день)
-- [04.08.2021] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)
-- [06.08.2021] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) - KMP
-- [08.08.2021] [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
-- [08.08.2021] [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
-- [09.08.2021] [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
-- [11.08.2021] [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
-- [12.08.2021] [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
-- [13.08.2021] [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
-- [14.08.2021] [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
-- [15.08.2021] [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
-- [16.08.2021] [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
-- [22.08.2021] [204. Count Primes](https://leetcode.com/problems/count-primes/)
-- [23.08.2021] [15. 3Sum](https://leetcode.com/problems/3sum/)
-- [24.08.2021] [1339. Maximum_Product_of_Splitted_Binary_Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)
-- [25.08.2021] [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) - вспомнить решение и
-  разобрать еще раз
-- [25.08.2021] [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
-  - make it in O(n)
-- [25.08.2021] [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) - вспомнить решение и разобрать еще раз
-- [26.08.2021] [198. House Robber](https://leetcode.com/problems/house-robber/) - вспомнить решение и разобрать еще раз
-- [26.08.2021] [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) - вспомнить решение и разобрать еще раз
-- [28.08.2021] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
-- [29.08.2021] [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
-- [01.09.2021] [206. Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
-- [01.09.2021] [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
-- [02.09.2021] [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)
-- [03.09.2021] [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
-- [04.09.2021] [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
-- [05.09.2021] [984. String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/)
-- [06.09.2021] [27. Remove Element](https://leetcode.com/problems/remove-element/)
-- [07.09.2021] [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-- [07.09.2021] [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
-- [08.09.2021] [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
-- [15.09.2021] [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
-- [15.09.2021] [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
-- [16.09.2021] [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
-- [17.09.2021] [143. Reorder List](https://leetcode.com/problems/reorder-list/)
-- [18.09.2021] [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)
-- [18.09.2021] [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
-- [19.09.2021] [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
-- [20.09.2021] [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
-- [21.09.2021] [133. Clone Graph](https://leetcode.com/problems/clone-graph/)
-- [03.10.2021] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
-- [12.10.2021] [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
-- [12.10.2021] [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
-- [15.10.2021] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- [16.10.2021] [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
-- [17.10.2021] [127. Word Ladder](https://leetcode.com/problems/word-ladder/) - повторить решение и решить через bidirectional search
-- [18.10.2021] [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) - решить без перевода дерева в массив
-  + изучить follow-up
-- [19.10.2021] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-- [20.10.2021] [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
 
 ## TODO Actions
 
