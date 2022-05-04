@@ -9,7 +9,6 @@
 - [08.08.2021] [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 - [09.08.2021] [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 - [11.08.2021] [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
-- [12.08.2021] [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - [13.08.2021] [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [14.08.2021] [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [15.08.2021] [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
