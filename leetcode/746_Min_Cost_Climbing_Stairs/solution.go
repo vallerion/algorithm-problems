@@ -1,7 +1,5 @@
 package _746_Min_Cost_Climbing_Stairs
 
-import "fmt"
-
 // [100,1,1,1,1,100,1,1,100,1]
 // [100,1,2,2,3,102,4,5,104,6]
 
@@ -27,7 +25,7 @@ func minCostClimbingStairs(cost []int) int {
 			hh[i] = min(hh[i], hh[i-1])
 		}
 	}
-	fmt.Println(hh)
+
 	return hh[len(hh)-1]
 }
 
