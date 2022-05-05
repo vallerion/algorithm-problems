@@ -6,6 +6,7 @@
 - [04.08.2021] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)
 - [06.08.2021] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) - KMP
 - [08.08.2021] [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+- [08.08.2021] [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (n logn)
 - [08.08.2021] [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 - [09.08.2021] [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 - [11.08.2021] [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
