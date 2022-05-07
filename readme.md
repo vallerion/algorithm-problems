@@ -8,6 +8,7 @@
 - [06.08.2021] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) - KMP
 - [08.08.2021] [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [08.08.2021] [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (n logn)
+- [08.08.2021] [456. 132 Pattern](https://leetcode.com/problems/132-pattern/) (n logn)
 - [08.08.2021] [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 - [09.08.2021] [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 - [09.08.2021] [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
