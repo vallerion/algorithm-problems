@@ -50,6 +50,7 @@
 - [12.10.2021] [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - [12.10.2021] [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 - [15.10.2021] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [15.10.2021] [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [16.10.2021] [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 - [17.10.2021] [127. Word Ladder](https://leetcode.com/problems/word-ladder/) - повторить решение и решить через bidirectional search
 - [18.10.2021] [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) - решить без перевода дерева в массив
