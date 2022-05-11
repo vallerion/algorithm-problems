@@ -51,7 +51,6 @@ My profile: https://leetcode.com/valerotti/
 - [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 - [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
-- [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 - [127. Word Ladder](https://leetcode.com/problems/word-ladder/) - bidirectional search
