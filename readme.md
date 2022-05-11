@@ -58,3 +58,4 @@ My profile: https://leetcode.com/valerotti/
 - [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) - follow-up
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
+- [1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
