@@ -21,7 +21,6 @@ My profile: https://leetcode.com/valerotti/
 - [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
 - [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) - (n)
 - [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
-- [198. House Robber](https://leetcode.com/problems/house-robber/)
 - [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 - [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 - [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)

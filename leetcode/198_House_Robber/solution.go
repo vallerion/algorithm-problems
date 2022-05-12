@@ -1,35 +1,26 @@
 package _198_House_Robber
 
-// [1,2,3,1]
-
-// [1] -> max=1
-// [1,2] -> max=2
-// [1,3,1] -> 1+1 or 3 -> max=3
-//
-
-// [2,1,1,2]
+// [2,1,1,2,1,2,2,2]
+// [8,7,5,6,3,4,2,2]
 
 func rob(nums []int) int {
-	memo := make([]int, len(nums))
-	for i := 0; i < len(memo); i++ {
-		memo[i] = -1
+	maxAmount := 0
+
+	for i := len(nums) - 1; i >= 0; i-- {
+		if i+3 < len(nums) {
+			nums[i] = nums[i] + max(nums[i+2], nums[i+3])
+		} else if i+2 < len(nums) {
+			nums[i] += nums[i+2]
+		}
 	}
 
-	return robMax(&nums, &memo, len(nums)-1)
-}
-
-func robMax(nums, memo *[]int, i int) int {
-	if i < 0 {
-		return 0
+	for i := 0; i < len(nums); i++ {
+		if nums[i] > maxAmount {
+			maxAmount = nums[i]
+		}
 	}
 
-	if (*memo)[i] >= 0 {
-		return (*memo)[i]
-	}
-
-	(*memo)[i] = max(robMax(nums, memo, i-2)+(*nums)[i], robMax(nums, memo, i-1))
-
-	return (*memo)[i]
+	return maxAmount
 }
 
 func max(a, b int) int {
