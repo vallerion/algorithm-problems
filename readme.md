@@ -7,15 +7,12 @@ My profile: https://leetcode.com/valerotti/
 
 ## TODO: Need to try again
 
-- [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 - [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)
 - [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) - KMP
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (n logn)
-- [456. 132 Pattern](https://leetcode.com/problems/132-pattern/) (n logn)
 - [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 - [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
-- [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
 - [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 - [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
@@ -35,7 +32,6 @@ My profile: https://leetcode.com/valerotti/
 - [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 - [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 - [984. String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/)
-- [27. Remove Element](https://leetcode.com/problems/remove-element/)
 - [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 - [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
@@ -59,3 +55,8 @@ My profile: https://leetcode.com/valerotti/
 - [1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
 - [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 - [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
+- [456. 132 Pattern](https://leetcode.com/problems/132-pattern/) (n logn)
+- [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+- [27. Remove Element](https://leetcode.com/problems/remove-element/)
+- [47. Permutations II](https://leetcode.com/problems/permutations-ii/)
