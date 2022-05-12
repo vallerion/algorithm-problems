@@ -7,7 +7,6 @@ My profile: https://leetcode.com/valerotti/
 
 ## TODO: Need to try again
 
-- [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)
 - [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) - KMP
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (n logn)

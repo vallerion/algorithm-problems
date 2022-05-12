@@ -1,46 +1,39 @@
 package _347_Top_K_Frequent_Elements
 
-// [1,1,1,2,2,3,4,4] 2
+// [1,1,1,2,2,3]
 
-// [1]=3
-// [2]=2
-// [3]=1
-// [0,0,0,0,0,0]
-// [0,3,2,1,0,0]
+// 1 -> 3
+// 2 -> 2
+// 3 -> 1
 
+// 1 -> [3]
+// 2 -> [2]
+// 3 -> [1]
+
+// [1,2]
+
+// O(n)
 func topKFrequent(nums []int, k int) []int {
-	if k == 0 {
+	if k > len(nums) {
 		return []int{}
 	}
-	if k == len(nums) {
-		return nums
-	}
 
-	mp := make(map[int]int)
-	arr := make([][]int, len(nums)+1)
-
-	for i := 0; i < len(arr); i++ {
-		arr[i] = make([]int, 0)
-	}
-
-	for i := 0; i < len(nums); i++ {
-		mp[nums[i]]++
-	}
-
-	for k, v := range mp {
-		arr[v] = append(arr[v], k)
-	}
-
+	hm := make(map[int]int)
+	bucket := make([][]int, len(nums))
 	result := make([]int, 0)
 
-	for i := len(arr) - 1; i >= 0; i-- {
-		if len(arr[i]) > 0 {
-			result = append(result, arr[i]...)
-		}
+	for i := 0; i < len(nums); i++ {
+		hm[nums[i]]++
+	}
 
-		if len(result) == k {
-			break
-		}
+	for k, v := range hm {
+		bucket[v-1] = append(bucket[v-1], k)
+	}
+
+	i := len(bucket) - 1
+	for len(result) < k {
+		result = append(result, bucket[i]...)
+		i--
 	}
 
 	return result
