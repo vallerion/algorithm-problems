@@ -60,3 +60,4 @@ My profile: https://leetcode.com/valerotti/
 - [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 - [27. Remove Element](https://leetcode.com/problems/remove-element/)
 - [47. Permutations II](https://leetcode.com/problems/permutations-ii/)
+- [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
