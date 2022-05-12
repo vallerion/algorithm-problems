@@ -1,47 +1,54 @@
 package _448_Find_All_Numbers_Disappeared_in_an_Array
 
-func findDisappearedNumbers(nums []int) []int {
-	hp := make(map[int]int)
-	n := len(nums)
-	res := make([]int, 0)
+// 4,3,2,7,8,2,3,1
+// 7,3,2,-1,8,2,3,1
+// 3,3,2,-1,8,2,-1,1
+// 3,-1,-1,-1,8,2,-1,1
 
-	for i := 0; i < n; i++ {
-		hp[nums[i]]++
+// 1,1
+
+func findDisappearedNumbers(nums []int) []int {
+	i := 0
+
+	for i < len(nums) {
+		if nums[i] == -1 || nums[nums[i]-1] == -1 {
+			i++
+			continue
+		}
+
+		if i != nums[i]-1 {
+			temp := nums[nums[i]-1]
+			nums[nums[i]-1] = -1
+			nums[i] = temp
+		} else {
+			nums[nums[i]-1] = -1
+		}
 	}
 
-	for i := 0; i < n; i++ {
-		_, ok := hp[i+1]
-		if ok == false {
-			res = append(res, i+1)
+	res := make([]int, 0)
+	for j := 0; j < len(nums); j++ {
+		if nums[j] != -1 {
+			res = append(res, j+1)
 		}
 	}
 
 	return res
 }
 
-func findDisappearedNumbers2(nums []int) []int {
+func findDisappearedNumbersWithExtraSpace(nums []int) []int {
+	hh := make([]int, len(nums)+1)
+
 	for i := 0; i < len(nums); i++ {
-		ind := abs(nums[i]) - 1
-		if nums[ind] > 0 {
-			nums[ind] = -nums[ind]
+		hh[nums[i]]++
+	}
+
+	res := make([]int, 0)
+
+	for i := 1; i < len(hh); i++ {
+		if hh[i] == 0 {
+			res = append(res, i)
 		}
 	}
 
-	j := 0
-
-	for i := 0; i < len(nums); i++ {
-		if nums[i] > 0 {
-			nums[j] = i+1
-			j++
-		}
-	}
-
-	return nums[:j]
-}
-
-func abs(a int) int {
-	if a < 0 {
-		return -a
-	}
-	return a
+	return res
 }
