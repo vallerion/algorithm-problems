@@ -60,3 +60,4 @@ My profile: https://leetcode.com/valerotti/
 - [47. Permutations II](https://leetcode.com/problems/permutations-ii/)
 - [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
 - [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) - follow-up
+- [2262. Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string/) - O(n)
