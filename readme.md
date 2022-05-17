@@ -62,3 +62,4 @@ My profile: https://leetcode.com/valerotti/
 - [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) - follow-up
 - [2262. Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string/) - O(n)
 - [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) - DFS+Dijkstra+BFS
+- [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) - DFS+Dijkstra+BFS
