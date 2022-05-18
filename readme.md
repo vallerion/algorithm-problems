@@ -63,3 +63,4 @@ My profile: https://leetcode.com/valerotti/
 - [2262. Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string/) - O(n)
 - [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) - DFS+Dijkstra+BFS
 - [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) - DFS+Dijkstra+BFS
+- [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
