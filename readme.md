@@ -64,3 +64,5 @@ My profile: https://leetcode.com/valerotti/
 - [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) - DFS+Dijkstra+BFS
 - [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) - DFS+Dijkstra+BFS
 - [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) - https://en.wikipedia.org/wiki/Biconnected_component
+- [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
+- [62. Unique Paths](https://leetcode.com/problems/unique-paths/)
