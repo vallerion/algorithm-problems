@@ -1,93 +1,72 @@
 package _200_Number_of_Islands
 
-func find(set []int, target int) int {
-	if set[target] == target {
-		return target
-	}
-
-	set[target] = find(set, set[target])
-	return set[target]
+type DisjointSet struct {
+	values, rank []int
 }
 
-func union(set []int, a, b int) {
-	ax, bx := find(set, a), find(set, b)
-
-	if ax != bx {
-		set[bx] = ax
+func Constructor(length int) *DisjointSet {
+	values, rank := make([]int, length), make([]int, length)
+	for i := 0; i < length; i++ {
+		values[i] = i
 	}
+
+	return &DisjointSet{values, rank}
+}
+
+func (ds *DisjointSet) Find(x int) int {
+	if ds.values[x] == x {
+		return x
+	}
+
+	ds.values[x] = ds.Find(ds.values[x])
+	return ds.values[x]
+}
+
+func (ds *DisjointSet) Union(x, y int) {
+	rootX, rootY := ds.Find(x), ds.Find(y)
+
+	if rootX != rootY {
+		if ds.rank[rootY] > ds.rank[rootX] {
+			ds.values[rootX] = rootY
+		} else if ds.rank[rootY] < ds.rank[rootX] {
+			ds.values[rootY] = rootX
+		} else {
+			ds.values[rootY] = rootX
+			ds.rank[rootX]++
+		}
+	}
+}
+
+func (ds *DisjointSet) IsConnected(x, y int) bool {
+	return ds.Find(x) == ds.Find(y)
 }
 
 func numIslands(grid [][]byte) int {
-	// if len(grid) == 0
+	R, C := len(grid), len(grid[0])
 
-	newGrip := make([][]int, 0)
-	dsu := make([]int, 0)
-	m, n, k := len(grid), len(grid[0]), 0
+	ds := Constructor(R * C)
 
-	for i := 0; i < m; i++ {
-		newGrip = append(newGrip, make([]int, n))
+	for i := 0; i < R; i++ {
+		for j := 0; j < C; j++ {
+			if i > 0 && grid[i][j] == '1' && grid[i-1][j] == '1' {
+				ds.Union(i*len(grid[0])+j, (i-1)*len(grid[0])+j)
+			}
 
-		for j := 0; j < n; j++ {
-			if (grid[i][j] - 48) == 1 {
-				dsu = append(dsu, k)
-				newGrip[i][j] = k
-				k++
-			} else {
-				newGrip[i][j] = -1
+			if j > 0 && grid[i][j] == '1' && grid[i][j-1] == '1' {
+				ds.Union(i*len(grid[0])+j, i*len(grid[0])+(j-1))
 			}
 		}
 	}
 
-	//i, j := 0, 0
-	//
-	//for i < n-1 && j < m-1 {
-	//	if newGrip[i][j] < 0 {
-	//		continue
-	//	}
-	//
-	//	if newGrip[i][j] > 0 && newGrip[i+1][j] > 0 {
-	//		union(dsu, newGrip[i][j], newGrip[i+1][j])
-	//	}
-	//
-	//	if newGrip[i][j] > 0 && newGrip[i][j+1] > 0 {
-	//		union(dsu, newGrip[i][j], newGrip[i+1][j])
-	//	}
-	//
-	//	i++
-	//}
+	islands := make(map[int]int)
 
-	for i := 0; i < m; i++ {
-		for j := 0; j < n; j++ {
-
-			if newGrip[i][j] < 0 {
-				continue
-			}
-
-			if i+1 < m && newGrip[i][j] >= 0 && newGrip[i+1][j] >= 0 {
-				union(dsu, newGrip[i][j], newGrip[i+1][j])
-			}
-
-			if j+1 < n && newGrip[i][j] >= 0 && newGrip[i][j+1] >= 0 {
-				union(dsu, newGrip[i][j], newGrip[i][j+1])
-			}
-
-			if i-1 >= 0 && newGrip[i][j] >= 0 && newGrip[i-1][j] >= 0 {
-				union(dsu, newGrip[i][j], newGrip[i-1][j])
-			}
-
-			if j-1 >= 0 && newGrip[i][j] >= 0 && newGrip[i][j-1] >= 0 {
-				union(dsu, newGrip[i][j], newGrip[i][j-1])
+	for i := 0; i < R; i++ {
+		for j := 0; j < C; j++ {
+			if grid[i][j] == '1' {
+				islands[ds.Find(i*len(grid[0])+j)]++
 			}
 		}
 	}
 
-	dsuCounter := make(map[int]int, 0)
-
-	for i := 0; i < len(dsu); i++ {
-		dsuCounter[find(dsu, dsu[i])]++
-	}
-
-	//fmt.Println(dsu, dsuCounter)
-
-	return len(dsuCounter)
+	return len(islands)
 }
