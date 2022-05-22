@@ -67,3 +67,4 @@ My profile: https://leetcode.com/valerotti/
 - [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 - [62. Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+- [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)
