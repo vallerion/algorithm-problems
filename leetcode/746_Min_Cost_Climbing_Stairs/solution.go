@@ -1,32 +1,35 @@
 package _746_Min_Cost_Climbing_Stairs
 
-// [100,1,1,1,1,100,1,1,100,1]
-// [100,1,2,2,3,102,4,5,104,6]
+// [1,2,3]
+// [3,2,3]
 
-// [1,100,1,1,1,100,1,1,100,1]
-// [1,1  ,2,3,3,4  ,4,5,5  ,6]
+// [100,1,1,2,3,1,100]
+// [  0,104,104,103,103,101,0]
+// [100,1,1,2,103,101,100]
+// 1 + 2 + 1 + 100 = 104
 
-// [10,15,20]
-// [10,15,20]
+//
 
 func minCostClimbingStairs(cost []int) int {
-	if len(cost) == 2 {
-		return min(cost[0], cost[1])
+	if len(cost) == 0 {
+		return 0
 	}
 
-	hh := make([]int, len(cost))
-	hh[0] = cost[0]
-	hh[1] = cost[1]
+	if len(cost) == 1 {
+		return cost[0]
+	}
 
-	for i := 2; i < len(cost); i++ {
-		hh[i] = min(hh[i-1], hh[i-2]) + cost[i]
+	trace := make([]int, len(cost))
 
-		if i == len(cost)-1 {
-			hh[i] = min(hh[i], hh[i-1])
+	for i := len(cost) - 1; i >= 0; i-- {
+		if i >= len(cost)-2 {
+			trace[i] = cost[i]
+		} else {
+			trace[i] = cost[i] + min(trace[i+1], trace[i+2])
 		}
 	}
 
-	return hh[len(hh)-1]
+	return min(trace[0], trace[1])
 }
 
 func min(a, b int) int {
