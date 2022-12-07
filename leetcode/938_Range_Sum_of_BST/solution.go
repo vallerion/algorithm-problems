@@ -6,21 +6,16 @@ type TreeNode struct {
 	Right *TreeNode
 }
 
+// [1,2,3,4,5]
 func rangeSumBST(root *TreeNode, low int, high int) int {
-	res := 0
-
 	if root == nil {
-		return res
+		return 0
 	}
 
+	sum := 0
 	if root.Val >= low && root.Val <= high {
-		res += root.Val
-		return rangeSumBST(root.Left, low, high) + res + rangeSumBST(root.Right, low, high)
+		sum = root.Val
 	}
 
-	if root.Val > high {
-		return rangeSumBST(root.Left, low, high) + res
-	} else {
-		return res + rangeSumBST(root.Right, low, high)
-	}
+	return sum + rangeSumBST(root.Left, low, high) + rangeSumBST(root.Right, low, high)
 }
