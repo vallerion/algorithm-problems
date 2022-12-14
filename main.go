@@ -1,20 +1,24 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"time"
+)
 
 func main() {
-	st := make([]int, 0)
+	var x int
+	var done bool
 
-	values := [...]int{4, 5, 6, 1, 2, 3, 94, 6, 2}
-
-	for i := 0; i < len(values); i++ {
-
-		for len(st) > 0 && st[len(st)-1] > values[i] {
-			st = st[:len(st)-1]
+	go func() {
+		for !done {
 		}
+		fmt.Println(x)
+	}()
 
-		st = append(st, values[i])
-	}
+	go func() {
+		x = 1
+		done = true
+	}()
 
-	fmt.Println(st)
+	time.Sleep(time.Millisecond)
 }
