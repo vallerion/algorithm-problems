@@ -8,6 +8,8 @@ My profile: https://leetcode.com/valerotti/
 ## TODO: Need to try again
 
 - [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) - KMP
+- [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (n logn)
 - [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
