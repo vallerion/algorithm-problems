@@ -5,7 +5,7 @@ Because of my desire to learn algorithms and keep my skill at the level, also fo
 
 My profile: https://leetcode.com/valerotti/
 
-## TODO: Need to try again
+## Failed to solve
 
 - [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) - KMP
 - [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
